@@ -1,0 +1,27 @@
+.size{
+    width: 40px;
+    height:40px;
+   font-size: 20px;
+}
+button{
+    padding: 5px;
+}
+.Nul{
+    background:black;
+    color:#fff;
+}
+.Babs{
+    background: yellow;
+    color: black;
+}
+.Ales{
+    background: red;
+    color:black;
+}
+.Joian{
+    background: purple;
+    color:black;
+}
+body{
+    background-color: rgb(228, 69, 11);
+}
